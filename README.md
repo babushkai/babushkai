@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 Acalonia School
 
 ## History
-Google Cloud Platform System Engineer at EPAM Systems 👶
-Computer Vision Engineer/Data Scientist at DataFluct
+Google Cloud Platform System Engineer at EPAM Systems 👶 \
+Computer Vision Engineer/Data Scientist at DataFluct \
 MSc in Data Science at Data ScienceTech Institute(https://www.datasciencetech.institute/)
