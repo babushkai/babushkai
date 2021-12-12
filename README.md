@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Talk
+## Talk 🎤
 [Math for Data Science](https://www.youtube.com/watch?v=DqoDpm_OjxQ&t=517s) at [Le Wagon Tokyo](https://www.lewagon.com/tokyo)
