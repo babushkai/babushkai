@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 
 ## Talk 🎤
 [Math for Data Science](https://www.youtube.com/watch?v=DqoDpm_OjxQ&t=517s) at [Le Wagon Tokyo](https://www.lewagon.com/tokyo)
+
+## Community
+Acalonia School
+
+## History
+Google Cloud Platform System Engineer at EPAM Systems 👶
+Computer Vision Engineer/Data Scientist at DataFluct
+MSc in Data Science at Data ScienceTech Institute(https://www.datasciencetech.institute/)
