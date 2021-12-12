@@ -1,7 +1,7 @@
 ## Who are you
 Living as art and science to distill knowledge with Coffee☕️ and Lo-fi(https://www.youtube.com/c/majesticcasual) as fuel
 
-## Talk 🎤
+## Talk
 [Math for Data Science](https://www.youtube.com/watch?v=DqoDpm_OjxQ&t=517s) at [Le Wagon Tokyo](https://www.lewagon.com/tokyo)
 
 ## Community
