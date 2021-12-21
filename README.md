@@ -18,6 +18,9 @@ Computer Vision Engineer/Data Scientist at DataFluct \
 MSc in Data Science at Data ScienceTech Institute(https://www.datasciencetech.institute/)
 
 ## Certification
-TOEIC 905(English)
-DELF B2(French)
+TOEIC 905(English) \
+DELF B2(French) \
+Neo4j Certified Professional \
+Machine Learning Engineering Nano degree(Udacity) \
+GCP Associate Cloud Engineer \
 ※ I strongly believe the certificate is only the obvious accomplishment. True value comes from mostly implicit contributions.
