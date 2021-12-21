@@ -16,3 +16,8 @@ Tokyo Data Science
 Google Cloud Platform System Engineer at EPAM Systems 👶 \
 Computer Vision Engineer/Data Scientist at DataFluct \
 MSc in Data Science at Data ScienceTech Institute(https://www.datasciencetech.institute/)
+
+## Certification
+TOEIC 905(English)
+DELF B2(French)
+※ I strongly believe the certificate is only the obvious accomplishment. True value comes from mostly implicit contributions.
