@@ -5,7 +5,7 @@ Living as art and science to distill knowledge with Coffee☕️ and Lo-fi(https
 [Math for Data Science](https://www.youtube.com/watch?v=DqoDpm_OjxQ&t=517s) at [Le Wagon Tokyo](https://www.lewagon.com/tokyo)
 
 ## Video
-My youtube channel https://www.youtube.com/channel/UCERuVu6ZkMC3_E7d0crNS2A
+My youtube channel https://www.youtube.com/channel/video
 
 ## Community
 Acalonia School
