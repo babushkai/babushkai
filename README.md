@@ -15,8 +15,10 @@ Tokyo Data Science
 ## History
 System Engineer at EPAM Systems 👶 \
 Computer Vision Engineer/Data Scientist at DataFluct \
-MSc in Data Science at Data ScienceTech Institute(https://www.datasciencetech.institute/)
-Intern at French Embassy at Tokyo, Japan
+MSc in Data Science at Data ScienceTech Institute(https://www.datasciencetech.institute/) \
+Intern at French Embassy at Tokyo, Japan \
+Beta testing guide at Amazon Explorer(Amazon US) 
+
 ## Certification
 TOEIC 905(English) \
 DELF B2(French) \
