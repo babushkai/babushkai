@@ -8,16 +8,16 @@ Living as art and science to distill knowledge with Coffee☕️ and [Lo-fi jazz
 [My youtube channel](https://www.youtube.com/channel/UCERuVu6ZkMC3_E7d0crNS2A/playlists)
 
 ## Community
-[Acalonia School](https://acalonia.com/)
+[Acalonia School](https://acalonia.com/) \
 [Tokyo Data Science](https://tokyodatascience.com/)
 
 
 ## History
-System Engineer at EPAM Systems 👶 \
+System Engineer at EPAM Systems [@EPAM Systmes](https://www.epam.com/) \
 Computer Vision Engineer/Data Scientist at DataFluct \
-MSc in Data Science at Data ScienceTech Institute(https://www.datasciencetech.institute/) \
-Intern at French Embassy at Tokyo, Japan \
-Beta testing guide at Amazon Explorer(Amazon US) 
+MSc in Data Science [@Data ScienceTech Institute](https://www.datasciencetech.institute/) \
+Intern [@La France au Japon](https://jp.ambafrance.org/) \
+Beta testing guide [@Amazon Explore](https://www.amazon.com/b?ie=UTF8&node=19419898011) 
 
 ## Certification
 TOEIC 905(English) \
