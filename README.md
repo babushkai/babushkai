@@ -13,9 +13,8 @@ Living as art and science to distill knowledge with Coffee☕️ and [Lo-fi jazz
 
 
 ## History
-System Engineer at EPAM Systems [@EPAM Systmes](https://www.epam.com/) \
-Computer Vision Engineer/Data Scientist at DataFluct \
-MSc in Data Science [@Data ScienceTech Institute](https://www.datasciencetech.institute/) \
+👨‍💻 System Engineer at EPAM Systems [@EPAM Systmes](https://www.epam.com/) \
+🎓 MSc in Data Science [@Data ScienceTech Institute](https://www.datasciencetech.institute/) \
 Intern [@La France au Japon](https://jp.ambafrance.org/) \
 Beta testing guide [@Amazon Explore](https://www.amazon.com/b?ie=UTF8&node=19419898011) 
 
