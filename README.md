@@ -16,8 +16,8 @@ Making [Biblio](https://github.com/kwdaisuke/Biblio) throughout my journey of li
 ## History
 👨‍💻 Cloud Engineer at EPAM Systems [@EPAM Systmes](https://www.epam.com/) \
 🎓 MSc in Data Science [@Data ScienceTech Institute](https://www.datasciencetech.institute/) \
-Intern [@La France au Japon](https://jp.ambafrance.org/) \
-Beta testing guide [@Amazon Explore](https://www.amazon.com/b?ie=UTF8&node=19419898011) 
+🇫🇷 Intern [@La France au Japon](https://jp.ambafrance.org/) \
+🚀 Beta testing guide [@Amazon Explore](https://www.amazon.com/b?ie=UTF8&node=19419898011) 
 
 ## Certification
 TOEIC 905(English) \
