@@ -1,5 +1,5 @@
 ## Who are you
-Living as art and science to distill knowledge with Coffee☕️ and Lo-fi jazz(https://www.youtube.com/c/majesticcasual) as fuel
+Living as art and science to distill knowledge with Coffee☕️ and [Lo-fi jazz](https://www.youtube.com/c/majesticcasual) as fuel
 
 ## Talk
 [Math for Data Science](https://www.youtube.com/watch?v=DqoDpm_OjxQ&t=517s) at [Le Wagon Tokyo](https://www.lewagon.com/tokyo)
@@ -8,8 +8,8 @@ Living as art and science to distill knowledge with Coffee☕️ and Lo-fi jazz(
 [My youtube channel](https://www.youtube.com/channel/UCERuVu6ZkMC3_E7d0crNS2A/playlists)
 
 ## Community
-Acalonia School \
-Tokyo Data Science
+[Acalonia School](https://acalonia.com/)
+[Tokyo Data Science](https://tokyodatascience.com/)
 
 
 ## History
