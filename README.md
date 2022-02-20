@@ -8,6 +8,8 @@ Making [Biblio](https://github.com/kwdaisuke/Biblio) throughout my journey of li
 ## Video
 [My youtube channel](https://www.youtube.com/channel/UCERuVu6ZkMC3_E7d0crNS2A/playlists)
 
+## Sound
+[My Sound](https://soundcloud.com/daisuke0582)
 ## Community
 [Acalonia School](https://acalonia.com/) \
 [Tokyo Data Science](https://tokyodatascience.com/)
