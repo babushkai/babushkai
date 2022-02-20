@@ -28,4 +28,5 @@ Neo4j Certified Professional \
 Machine Learning Engineering Nano degree(Udacity) \
 GCP Professional Data Engineer \
 GCP Associate Cloud Engineer
+
 ※ I strongly believe the certificate is only the obvious accomplishment. True value comes from mostly implicit contributions.
