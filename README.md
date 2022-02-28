@@ -27,6 +27,7 @@ DELF B2(French) \
 Neo4j Certified Professional \
 Machine Learning Engineering Nano degree(Udacity) \
 GCP Professional Data Engineer \
-GCP Associate Cloud Engineer
+GCP Associate Cloud Engineer \
+AWS Certified Solutions Architect – Associate(SAA-C02)
 
 ※ I strongly believe the certificate is only the obvious accomplishment. True value comes from mostly implicit contributions.
