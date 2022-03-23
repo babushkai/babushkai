@@ -2,6 +2,9 @@
 Living as art and science to distill knowledge with Coffee☕️ and [Lo-fi jazz](https://www.youtube.com/c/majesticcasual) as fuel \
 Making [Biblio](https://github.com/kwdaisuke/Biblio) throughout my journey of life
 
+## Course
+[Babushka ML](https://kwdaisuke.github.io/)
+
 ## Talk
 [Math for Data Science](https://www.youtube.com/watch?v=DqoDpm_OjxQ&t=517s) [@Le Wagon Tokyo](https://www.lewagon.com/tokyo)
 
