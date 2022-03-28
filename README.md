@@ -3,7 +3,7 @@ Living as art and science to distill knowledge with Coffee☕️ and [Lo-fi jazz
 Making [Biblio](https://github.com/kwdaisuke/Biblio) throughout my journey of life
 
 ## Course
-[Babushka ML](https://kwdaisuke.github.io/)
+[Babushka ML](https://babushkaml.com/)
 
 ## Talk
 [Math for Data Science](https://www.youtube.com/watch?v=DqoDpm_OjxQ&t=517s) [@Le Wagon Tokyo](https://www.lewagon.com/tokyo)
