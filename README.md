@@ -2,7 +2,7 @@
 Living as art and science to distill knowledge with Coffee☕️ and [Lo-fi jazz](https://www.youtube.com/c/majesticcasual) as fuel \
 Making [Biblio](https://github.com/kwdaisuke/Biblio) throughout my journey of life
 
-## Course
+## Website
 [Babushka ML](https://babushkaml.com/)
 
 ## Talk
