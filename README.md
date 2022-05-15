@@ -27,7 +27,7 @@ TOEIC 905(English) \
 DELF B2(French) \
 Neo4j Certified Professional \
 Machine Learning Engineering Nano degree(Udacity) \
-GCP Professional Machine Learning Engineer
+GCP Professional Machine Learning Engineer \
 GCP Professional Data Engineer \
 GCP Associate Cloud Engineer \
 AWS Certified Solutions Architect – Associate(SAA-C02)
