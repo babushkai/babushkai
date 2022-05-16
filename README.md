@@ -26,7 +26,7 @@ Making [Babushka](https://github.com/kwdaisuke/Babushka) and [Biblio](https://gi
 GCP Professional Machine Learning Engineer \
 GCP Professional Data Engineer \
 GCP Associate Cloud Engineer \
-AWS Certified Solutions Architect – Associate(SAA-C02)
+AWS Certified Solutions Architect – Associate(SAA-C02) \
 Machine Learning Engineering Nano degree(Udacity) \
 Neo4j Certified Professional \
 TOEIC 905(English) \
