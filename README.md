@@ -9,7 +9,7 @@ Making [Babushka](https://github.com/kwdaisuke/Babushka) and [Biblio](https://gi
 [Math for Data Science](https://www.youtube.com/watch?v=DqoDpm_OjxQ&t=517s) [@Le Wagon Tokyo](https://www.lewagon.com/tokyo)
 
 ## Video
-[My youtube channel](https://www.youtube.com/channel/UCERuVu6ZkMC3_E7d0crNS2A/playlists)
+[Youtube](https://www.youtube.com/channel/UCERuVu6ZkMC3_E7d0crNS2A/playlists)
 
 ## Community
 [Acalonia School](https://acalonia.com/) \
