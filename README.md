@@ -30,6 +30,6 @@ AWS Certified Solutions Architect – Associate(SAA-C02) \
 Machine Learning Engineering Nano degree(Udacity) \
 Neo4j Certified Professional \
 TOEIC 905(English) \
-DELF B2(French) \
+DELF B2(French) 
 
 ※ I strongly believe the certificate is only the obvious accomplishment. True value comes from mostly implicit contributions.
