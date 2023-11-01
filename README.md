@@ -17,7 +17,7 @@ Making [Babushka](https://github.com/kwdaisuke/Babushka) and [Biblio](https://gi
 
 
 ## History
-👨‍💻 Cloud Engineer at EPAM Systems [@EPAM Systems](https://www.epam.com/) \
+👨‍💻 Cloud Engineer at Google Cloud Platform \
 🎓 MSc in Data Science [@Data ScienceTech Institute](https://www.datasciencetech.institute/) \
 🇫🇷 Intern [@La France au Japon](https://jp.ambafrance.org/) \
 🚀 Beta testing guide [@Amazon Explore](https://www.amazon.com/b?ie=UTF8&node=19419898011) 
