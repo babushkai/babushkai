@@ -2,19 +2,7 @@
 Senior Software Engineer \
 Making [Babushka](https://github.com/kwdaisuke/Babushka) and [Biblio](https://github.com/kwdaisuke/Biblio) throughout my journey of life
 
-## Website
-[Babushka ML](https://babushkaml.com/)
-
-## Talk
-[Math for Data Science](https://www.youtube.com/watch?v=DqoDpm_OjxQ&t=517s) [@Le Wagon Tokyo](https://www.lewagon.com/tokyo)
-
-## Video
-[Youtube](https://www.youtube.com/channel/UCERuVu6ZkMC3_E7d0crNS2A/playlists)
-
-## Community
-[Acalonia School](https://acalonia.com/) \
-[Tokyo Data Science](https://tokyodatascience.com/)
-
+![babushkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=babushkai&show_icons=true&theme=transparent)
 
 ## History
 👨‍💻 Cloud Engineer at Google Cloud Platform \
