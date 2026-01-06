@@ -4,4 +4,7 @@ I ship code.
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=babushkai&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=babushkai&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babushkai&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=babushkai&theme=github_dark)
