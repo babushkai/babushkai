@@ -1,29 +1,22 @@
-name: GitHub README Stats
+name: GitHub Stats
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  build:
+  stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
 
-      - name: My GitHub Status
-        uses: yihong0618/github-readme-stats@main
+      - name: Generate stats image
+        uses: cicirello/user-statistician@v1
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push README
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -a -m "Update GitHub stats" || echo "No changes"
-          git push
+          colors: dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
