@@ -1,21 +1,102 @@
-# Hi, I'm babushkai
+```
 
-Software Engineer
+  ██████╗  █████╗ ██████╗ ██╗   ██╗███████╗██╗  ██╗██╗  ██╗ █████╗ ██╗
+  ██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝██║  ██║██║ ██╔╝██╔══██╗██║
+  ██████╔╝███████║██████╔╝██║   ██║███████╗███████║█████╔╝ ███████║██║
+  ██╔══██╗██╔══██║██╔══██╗██║   ██║╚════██║██╔══██║██╔═██╗ ██╔══██║██║
+  ██████╔╝██║  ██║██████╔╝╚██████╔╝███████║██║  ██║██║  ██╗██║  ██║██║
+  ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 
----
+```
 
-### About Me
+<br>
 
-I build software and solve problems with code.
+<div align="center">
 
-- Currently working on interesting projects
-- Always learning new technologies
-- Open to collaboration
+*software engineer _ problem solver _ curious mind*
 
----
+<br>
 
-### GitHub Stats
+◈ &nbsp; ◈ &nbsp; ◈
+
+<br>
+
+</div>
+
+<br>
+
+```
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   I don't just write code.                                                   │
+│   I craft systems that breathe,                                              │
+│   solutions that speak,                                                      │
+│   and ideas that move.                                                       │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
+
+<br>
+
+<div align="center">
+
+### ░▒▓ SIGNAL ▓▒░
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**currently exploring**
+```
+→ machine learning pipelines
+→ distributed systems
+→ the edge of what's possible
+```
+
+</td>
+<td width="50%" valign="top">
+
+**how I think**
+```
+→ first principles
+→ iterate fast
+→ ship, learn, repeat
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### ░▒▓ TRACE ▓▒░
+
+<br>
 
 ![GitHub Stats](images/userstats.svg)
 
-<sub>Feel free to explore my repositories</sub>
+<br>
+
+◈ &nbsp; ◈ &nbsp; ◈
+
+<br>
+
+<sub>
+
+*"The best way to predict the future is to invent it."*
+
+</sub>
+
+<br>
+
+```
+[ open for interesting conversations ]
+```
+
+</div>
