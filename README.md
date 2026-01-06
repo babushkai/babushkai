@@ -38,18 +38,18 @@ I build software and solve problems with code.
 | sum |                                                                     |                                                                           |                                                                           |            |                                                                                           1 |
 
 ## The repos I stared (random 10)
-| ID |                                 REPO                                  | STAREDDATE |     LANGUAGE     | LATESTUPDATE |
-|----|-----------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [sglang](https://github.com/sgl-project/sglang)                       | 2025-12-27 | Python           | 2026-01-06   |
-|  2 | [argilla](https://github.com/argilla-io/argilla)                      | 2025-12-24 | Python           | 2026-01-06   |
-|  3 | [Whisky](https://github.com/Whisky-App/Whisky)                        | 2024-09-15 | Swift            | 2026-01-06   |
-|  4 | [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)  | 2023-11-21 | Python           | 2026-01-05   |
-|  5 | [GPTCache](https://github.com/zilliztech/GPTCache)                    | 2024-05-19 | Python           | 2026-01-06   |
-|  6 | [best-of-python](https://github.com/lukasmasuch/best-of-python)       | 2022-10-06 | md               | 2026-01-05   |
-|  7 | [pythia](https://github.com/EleutherAI/pythia)                        | 2023-07-13 | Jupyter Notebook | 2026-01-05   |
-|  8 | [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 2023-05-15 | Jupyter Notebook | 2026-01-06   |
-|  9 | [cognita](https://github.com/truefoundry/cognita)                     | 2025-12-27 | Python           | 2026-01-05   |
-| 10 | [bolt.diy](https://github.com/stackblitz-labs/bolt.diy)               | 2025-04-21 | TypeScript       | 2026-01-06   |
+| ID |                                   REPO                                   | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [oss-llmops-stack](https://github.com/langfuse/oss-llmops-stack)         | 2025-12-27 | md         | 2026-01-05   |
+|  2 | [cognita](https://github.com/truefoundry/cognita)                        | 2025-12-27 | Python     | 2026-01-05   |
+|  3 | [bolt.diy](https://github.com/stackblitz-labs/bolt.diy)                  | 2025-04-21 | TypeScript | 2026-01-06   |
+|  4 | [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)       | 2025-05-20 | Go         | 2026-01-06   |
+|  5 | [automlops](https://github.com/GoogleCloudPlatform/automlops)            | 2023-03-21 | Python     | 2026-01-02   |
+|  6 | [public-apis](https://github.com/public-apis/public-apis)                | 2023-03-20 | Python     | 2026-01-06   |
+|  7 | [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)                | 2023-11-21 | md         | 2026-01-06   |
+|  8 | [argilla](https://github.com/argilla-io/argilla)                         | 2025-12-24 | Python     | 2026-01-06   |
+|  9 | [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 2022-12-04 | md         | 2026-01-06   |
+| 10 | [mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)     | 2023-03-06 | Python     | 2026-01-04   |
 
 <!--END_SECTION:my_github-->
 
