@@ -16,9 +16,7 @@ I build software and solve problems with code.
 
 ### GitHub Stats
 
-<p>
-  <img src="./stats.svg" alt="GitHub Stats" />
-  <img src="./top-langs.svg" alt="Top Languages" />
-</p>
+<!--START_SECTION:my_github-->
+<!--END_SECTION:my_github-->
 
 <sub>Feel free to explore my repositories</sub>
