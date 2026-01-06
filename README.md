@@ -1,6 +1,24 @@
-## Who are you
-Based Software Engineer
+# Hi, I'm babushkai
 
-![babushkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=babushkai&show_icons=true&theme=chartreuse-dark)
+Software Engineer
 
+---
 
+### About Me
+
+I build software and solve problems with code.
+
+- Currently working on interesting projects
+- Always learning new technologies
+- Open to collaboration
+
+---
+
+### GitHub Stats
+
+<p>
+  <img src="./stats.svg" alt="GitHub Stats" />
+  <img src="./top-langs.svg" alt="Top Languages" />
+</p>
+
+<sub>Feel free to explore my repositories</sub>
