@@ -4,4 +4,4 @@ I ship code.
 
 <br>
 
-![GitHub Stats](images/userstats.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=babushkai&theme=dark&hide_border=true)](https://git.io/streak-stats)
