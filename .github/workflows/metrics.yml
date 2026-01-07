@@ -19,7 +19,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Amsterdam
-          commits_authoring: babushkai, daisuke.kuwabara@gmail.com
+          commits_authoring: babushkai, daisuke0582@gmail.com
 
           # Isometric contribution calendar
           plugin_isocalendar: yes
