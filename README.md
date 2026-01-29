@@ -11,3 +11,8 @@ I ship code.
 <a href="https://www.goodreads.com/user/show/198324759">
   <img src="https://goodreads-readme.vercel.app/api/book?id=198324759" alt="Currently reading" width="350" />
 </a>
+
+### 📖 Read
+
+<!-- GOODREADS-READ:START -->
+<!-- GOODREADS-READ:END -->
