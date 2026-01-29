@@ -15,8 +15,5 @@ I ship code.
 <a href="https://openlibrary.org/isbn/110845514X"><img src="https://covers.openlibrary.org/b/isbn/110845514X-M.jpg" width="100" /></a>
 <a href="https://openlibrary.org/isbn/1098134184"><img src="https://covers.openlibrary.org/b/isbn/1098134184-M.jpg" width="100" /></a>
 <a href="https://openlibrary.org/isbn/0262035618"><img src="https://covers.openlibrary.org/b/isbn/0262035618-M.jpg" width="100" /></a>
-<a href="https://openlibrary.org/books/OL38327656M"><img src="https://covers.openlibrary.org/b/olid/OL38327656M-M.jpg" width="100" /></a>
-<a href="https://openlibrary.org/isbn/1098102932"><img src="https://covers.openlibrary.org/b/isbn/1098102932-M.jpg" width="100" /></a>
 <a href="https://openlibrary.org/isbn/149207294X"><img src="https://covers.openlibrary.org/b/isbn/149207294X-M.jpg" width="100" /></a>
 <a href="https://openlibrary.org/isbn/0387310738"><img src="https://covers.openlibrary.org/b/isbn/0387310738-M.jpg" width="100" /></a>
-<a href="https://openlibrary.org/isbn/1138044482"><img src="https://covers.openlibrary.org/b/isbn/1138044482-M.jpg" width="100" /></a>
