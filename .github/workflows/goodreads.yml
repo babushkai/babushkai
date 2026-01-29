@@ -14,7 +14,7 @@ jobs:
         with:
           goodreads_user_id: "198324759"
           shelf: "currently-reading"
-          template: '<a href="${url}"><img src="${image}" alt="${title}" width="80"></a>'
+          template: "- [$title]($url) by $author"
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
