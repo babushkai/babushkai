@@ -15,4 +15,5 @@ I ship code.
 ### 📖 Read
 
 <!-- GOODREADS-READ:START -->
+- [Python for Data Analysis](https://www.goodreads.com/review/show/8312237995?utm_medium=api&utm_source=rss) by Wes McKinney ⭐4.17
 <!-- GOODREADS-READ:END -->
