@@ -8,6 +8,6 @@ I ship code.
 
 ### 📚 Currently Reading
 
-<!-- GOODREADS-LIST:START -->
-- [Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://www.goodreads.com/review/show/8312217596?utm_medium=api&utm_source=rss) by Dan Vanderkam
-<!-- GOODREADS-LIST:END -->
+<a href="https://www.goodreads.com/user/show/198324759">
+  <img src="https://goodreads-readme.vercel.app/api/book?id=198324759" alt="Currently reading" width="350" />
+</a>
