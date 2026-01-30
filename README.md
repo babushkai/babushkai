@@ -18,6 +18,6 @@ I ship code.
 <a href="https://openlibrary.org/isbn/0387310738"><img src="https://covers.openlibrary.org/b/isbn/0387310738-M.jpg" width="100" /></a>
 <a href="https://books.google.com/books?id=OyYuEAAAQBAJ"><img src="https://books.google.com/books/content?id=OyYuEAAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
 <a href="https://books.google.com/books?id=8iycEAAAQBAJ"><img src="https://books.google.com/books/content?id=8iycEAAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
-<a href="https://openlibrary.org/isbn/1138044482"><img src="https://covers.openlibrary.org/b/isbn/1138044482-M.jpg" width="100" /></a>
+<a href="https://books.google.com/books?id=fkDADwAAQBAJ"><img src="https://books.google.com/books/content?id=fkDADwAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
 <a href="https://books.google.com/books?id=qlkzEAAAQBAJ"><img src="https://books.google.com/books/content?id=qlkzEAAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
 <a href="https://books.google.com/books?id=NZP6AQAAQBAJ"><img src="https://books.google.com/books/content?id=NZP6AQAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
