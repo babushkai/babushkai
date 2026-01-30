@@ -16,3 +16,5 @@ I ship code.
 <a href="https://openlibrary.org/isbn/0262035618"><img src="https://covers.openlibrary.org/b/isbn/0262035618-M.jpg" width="100" /></a>
 <a href="https://openlibrary.org/isbn/149207294X"><img src="https://covers.openlibrary.org/b/isbn/149207294X-M.jpg" width="100" /></a>
 <a href="https://openlibrary.org/isbn/0387310738"><img src="https://covers.openlibrary.org/b/isbn/0387310738-M.jpg" width="100" /></a>
+<a href="https://openlibrary.org/isbn/0262046822"><img src="https://covers.openlibrary.org/b/isbn/0262046822-M.jpg" width="100" /></a>
+<a href="https://openlibrary.org/isbn/0262048434"><img src="https://covers.openlibrary.org/b/isbn/0262048434-M.jpg" width="100" /></a>
