@@ -23,3 +23,5 @@ I ship code.
 <a href="https://books.google.com/books?id=NZP6AQAAQBAJ"><img src="https://books.google.com/books/content?id=NZP6AQAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
 <a href="https://books.google.com/books?id=9kQvEQAAQBAJ"><img src="https://books.google.com/books/content?id=9kQvEQAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
 <a href="https://books.google.com/books?id=6oHuKQe3TjQC"><img src="https://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=1" width="100" /></a>
+<a href="https://books.google.com/books?id=R24NEAAAQBAJ"><img src="https://books.google.com/books/content?id=R24NEAAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
+<a href="https://openlibrary.org/isbn/1098158733"><img src="https://covers.openlibrary.org/b/isbn/1098158733-M.jpg" width="100" /></a>
