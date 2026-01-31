@@ -27,3 +27,4 @@ I ship code.
 <a href="https://books.google.com/books?id=aPM5EAAAQBAJ"><img src="https://books.google.com/books/content?id=aPM5EAAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
 <a href="https://books.google.com/books?id=qAtHEAAAQBAJ"><img src="https://books.google.com/books/content?id=qAtHEAAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
 <a href="https://books.google.com/books?id=ICdnEAAAQBAJ"><img src="https://books.google.com/books/content?id=ICdnEAAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
+<a href="https://books.google.com/books?id=nVwBEQAAQBAJ"><img src="https://books.google.com/books/content?id=nVwBEQAAQBAJ&printsec=frontcover&img=1&zoom=1" width="100" /></a>
