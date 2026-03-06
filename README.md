@@ -1,6 +1,6 @@
 ### babushkai
 
-I ship code.
+I ship code to make the world better than i wasn't before.
 
 <br>
 
