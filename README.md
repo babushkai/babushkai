@@ -1,6 +1,6 @@
 ### babushkai
 
-I ship code to make the world better than i wasn't before.
+i don't hate my leg day.
 
 <br>
 
