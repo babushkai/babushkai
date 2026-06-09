@@ -1,6 +1,6 @@
 ### babushkai
 
-i don't hate my leg day.
+i start zone 2 cardio. 
 
 <br>
 
