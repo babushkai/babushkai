@@ -1,6 +1,6 @@
 ### babushkai
 
-i start zone 2 cardio. 
+I eat rice to buy more tokens.
 
 <br>
 
