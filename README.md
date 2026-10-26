@@ -1,7 +1,5 @@
 ### babushkai
 
-I eat rice to buy more tokens.
-
 <br>
 
 ![Metrics](github-metrics.svg)
